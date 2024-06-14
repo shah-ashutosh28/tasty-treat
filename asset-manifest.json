@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasty-treat/static/css/main.5a200b06.css",
+    "main.js": "/tasty-treat/static/js/main.ea0b4a4c.js",
+    "static/js/453.534e9df0.chunk.js": "/tasty-treat/static/js/453.534e9df0.chunk.js",
+    "index.html": "/tasty-treat/index.html",
+    "main.5a200b06.css.map": "/tasty-treat/static/css/main.5a200b06.css.map",
+    "main.ea0b4a4c.js.map": "/tasty-treat/static/js/main.ea0b4a4c.js.map",
+    "453.534e9df0.chunk.js.map": "/tasty-treat/static/js/453.534e9df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a200b06.css",
+    "static/js/main.ea0b4a4c.js"
+  ]
+}
